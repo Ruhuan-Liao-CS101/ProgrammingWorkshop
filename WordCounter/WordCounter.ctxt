@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=WordCounter
+comment0.text=\n\ A\ word\ counter\ that\ counts\ the\ total\ number\ of\ each\ words\ in\ a\ file\n\n\ @author\ Ruhuan\ Liao\n\ @version\ 10/10/21\n
+comment1.params=
+comment1.target=WordCounter()
+numComments=2

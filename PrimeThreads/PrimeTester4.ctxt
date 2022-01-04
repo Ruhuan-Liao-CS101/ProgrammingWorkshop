@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PrimeTester4
+comment0.text=\n\ 4\ thread\ PrimeTester\ processing\ the\ time\ and\ the\ count\ of\ total\ primes\ \n\ of\ each\ of\ the\ threads,\ then\ add\ all\ of\ the\ threads\ together\ to\ get\ the\ total\ primes\n\n\ @author\ Ruhuan\ Liao\n\ @version\ 1.0\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=nTime
+comment2.target=java.lang.String\ getSeconds(long)
+numComments=3

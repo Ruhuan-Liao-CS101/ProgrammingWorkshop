@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=TimerDisplay
+comment0.text=\n\ The\ TimerDisplay\ class\ implements\ a\ digital\ timer\ display\ that\ shows\ \n\ minutes\ and\ seconds.\ The\ range\ of\ the\ timer\ is\ counting\ down\ to\ 00\:00.\n\ The\ timer\ display\ receives\ "ticks"\ (via\ the\ timeTick\ method)\ every\ second\n\ and\ reacts\ by\ decrementing\ the\ display.\ This\ is\ done\ in\ the\ usual\ timer\n\ fashion\:\ the\ minute\ decrements\ when\ the\ seconds\ roll\ over\ to\ zero.\n\ \n\ @author\ Ruhuan\ Liao\n\ @version\ 2021.10.03\n
+comment1.params=
+comment1.target=TimerDisplay()
+comment1.text=\n\ Constructor\ for\ TimerDisplay\ objects.\ This\ constructor\ \n\ creates\ a\ new\ Timer\ set\ at\ 00\:00.\n
+comment2.params=minute\ second
+comment2.target=TimerDisplay(int,\ int)
+comment2.text=\n\ Constructor\ for\ TimerDisplay\ objects.\ This\ constructor\n\ creates\ a\ new\ Timer\ set\ at\ the\ time\ specified\ by\ the\ \n\ parameters.\n
+comment3.params=
+comment3.target=void\ timeTick()
+comment3.text=\n\ This\ method\ should\ get\ called\ once\ every\ minute\ -\ it\ makes\n\ the\ clock\ display\ go\ one\ minute\ forward.\n
+comment4.params=
+comment4.target=void\ timeTickDown()
+comment5.params=minute\ second
+comment5.target=void\ setTime(int,\ int)
+comment5.text=\n\ Set\ the\ time\ of\ the\ display\ to\ the\ specified\ hour\ and\n\ minute.\n
+comment6.params=
+comment6.target=java.lang.String\ getTime()
+comment6.text=\n\ Return\ the\ current\ time\ of\ this\ display\ in\ the\ format\ MM\:SS.\n
+comment7.params=
+comment7.target=void\ updateDisplay()
+comment7.text=\n\ Update\ the\ internal\ string\ that\ represents\ the\ display.\n
+numComments=8

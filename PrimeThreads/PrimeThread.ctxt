@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PrimeThread
+comment0.text=\n\ PrimeThread\ class\ \n\n\ @author\ Ruhuan\ Liao\n\ @version\ 1.0\n
+comment1.params=lo\ hi
+comment1.target=PrimeThread(int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Thread\n
+comment2.params=n
+comment2.target=boolean\ isPrime(int)
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=int\ getPCount()
+comment5.params=
+comment5.target=long\ getNTime()
+comment6.params=
+comment6.target=java.lang.String\ getSTime()
+comment7.params=
+comment7.target=int\ getRangeSize()
+numComments=8
